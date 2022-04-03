@@ -1,5 +1,5 @@
 #container {
-  background-color: black;
+  background-color: blue;
   width: 500px;
   height: 500px;
   margin: auto;
@@ -34,6 +34,9 @@
 #result {
   grid-column: 3/5;
 }
-.equal, .clear{
-    background-color: gray;
+.clear{
+    background-color:red;
+}
+.equal{
+  background-color: green;
 }
